@@ -10,7 +10,7 @@ export const loadAboutpage = () => {
   contentContainer.appendChild(headline);
 
   const image = document.createElement('img');
-  image.src = '..//images/about.jpg';
+  image.src = '..//dist/images/about.jpg';
   contentContainer.appendChild(image);
 
   const address = document.createElement('h2');

@@ -10,7 +10,7 @@ export const loadHomepage = () => {
   contentContainer.appendChild(headline);
 
   const image = document.createElement('img');
-  image.src = '..//images/home.jpg';
+  image.src = '..//dist/images/home.jpg';
   contentContainer.appendChild(image);
 
   const infoText = document.createElement('h2');
