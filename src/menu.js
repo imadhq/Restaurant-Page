@@ -10,7 +10,7 @@ export const loadMenupage = () => {
   contentContainer.appendChild(headline);
 
   const image = document.createElement('img');
-  image.src = '../dist/images/menu.jpg';
+  image.src = './images/menu.jpg';
   contentContainer.appendChild(image);
 
   const menuContainer = document.createElement('div');
