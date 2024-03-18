@@ -1,5 +1,6 @@
 # Restaurant-Page
 This project is part of my learning journey with The Odin Project curriculum.
+- Live Preview - https://imadhq.github.io/Restaurant-Page/
 
 **Project Overview**
 - The focus of this project is on leveraging DOM manipulation, modular code organization through the use of modules, and utilizing webpack to bundle assets for deployment. The objective is to develop a restaurant homepage using HTML, CSS, and JavaScript. Through DOM manipulation techniques, we'll dynamically render the website's contents. Modules will be employed to organize code logically and webpack will bundle assets efficiently for deployment purposes.
